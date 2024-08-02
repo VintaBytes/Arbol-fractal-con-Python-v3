@@ -1,4 +1,4 @@
-# Arbol fractal con Python v3
+# Arbol Fractal en Python (L-System) V3.
 
 Otro script que utiliza la librería `turtle` en Python para dibujar un árbol fractal. El árbol se genera utilizando parámetros predefinidos y funciones recursivas para crear un dibujo detallado y aleatorio.
 Se han agregado "hojas", y un coloreado aleatorio para conseguir un mejor resultado.
