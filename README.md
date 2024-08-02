@@ -7,7 +7,7 @@ Se han agregado "hojas", y un coloreado aleatorio para conseguir un mejor result
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
 
 ## Resultado
-<img src="https://github.com/VintaBytes/Arbol-fractal-con-Python-v2/blob/main/lsystem-21.jpeg?raw=true" width="640px">
+<img src="https://github.com/VintaBytes/Arbol-fractal-con-Python-v3/blob/main/lsystem-22.png?raw=true" width="640px">
 
 ## Explicación del Código
 
